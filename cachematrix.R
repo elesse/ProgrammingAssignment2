@@ -5,7 +5,7 @@
 ## 3. set the value of the inverse of the matrix
 ## 4. get the value of the inverse of the matrix
 ##
-## for all new matrices makeCacheMatrix() should be executed before cacheSolve().
+## for all new matrices makeCacheMatrix() should be executed before cacheSolve()
 
 makeCacheMatrix <- function(x = matrix()) {
   # initialize the inverse of the matrix
